@@ -1,0 +1,71 @@
+BP ID,Recapture,No,Date,Year,Species,Micro chip,Blood analysis,Age,Sex,Weight,Neck,Chest,Height,Length,Tail,BMI,Trap no,FCV,Viral titre,FCORV,Viral titre,FHV,Viral titre,FPLV,Viral titre,FIV,Viral titre,FLV,Viral tire,Parasites
+SM01,No,1,2014/05/28,2014,serval,No chip,No,Sub Adult,M,7.7,19,34.5,42,66,30.5,0.12,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SF01,No,2,2014/05/29,2014,serval,No chip,No,Adult,F,10,23,39.5,47,79,28,0.13,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SF02,No,3,2014/05/29,2014,serval,No chip,No,Adult,F,11.8,23,40,52,81.5,30,0.14,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SM02,No,4,2014/05/29,2014,serval,No chip,No,Juvenile,M,7,19,34,41,55.5,28.5,0.13,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SF3,No,5,2014/06/23,2014,serval,9.53E+14,Yes,Adult,F,9.2,20,38,45,85.5,28,0.11,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SM3,No,6,2014/06/24,2014,serval,9.53E+14,Yes,Adult,M,11.1,27,43,51.5,85,27.5,0.13,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SF4,No,7,2014/06/24,2014,serval,9.53E+14,Yes,Adult,F,9.7,24,40,46,79.5,30.5,0.12,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SM4,No,8,2014/06/24,2014,serval,9.53E+14,Yes,Adult,M,13.1,28.5,44,53.5,89,31,0.15,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SM6,No,9,2014/06/26,2014,serval,9.53E+14,Yes,Sub Adult,M,9.5,23,41,48,70,26.5,0.14,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SM5,No,10,2014/06/26,2014,serval,9.53E+14,Yes,Adult,M,14.5,29.5,45,51,85.5,30,0.17,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SM8,No,11,2014/07/28,2014,serval,9.53E+14,Yes,Adult,M,12.9,26,45,52,83,29.5,0.16,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SM7,No,12,2014/07/28,2014,serval,9.53E+14,Yes,Juvenile,M,6.6,21,35,42,62,28,0.11,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SF5,No,13,2014/07/29,2014,serval,9.53E+14,Yes,Sub Adult,F,9,22,38,48,85.5,25.5,0.11,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SM9,No,14,2014/07/30,2014,serval,9.53E+14,Yes,Adult,M,14.6,30,50,52,87,31,0.17,8,Negative,NA,Positive,0.097222222,Positive,01:40,NA,NA,Negative,NA,Negative,NA,Negative
+SF6,No,15,2014/07/30,2014,serval,9.53E+14,Yes,Adult,F,10.6,23,42,49,83.5,22,0.13,8,Negative,NA,Negative,NA,Positive,0.097222222,NA,NA,Negative,NA,Negative,NA,Negative
+SM15,No,16,2015/12/06,2015,serval,9.00E+14,Yes,Adult,M,13.7,25.5,45,49,91.5,32,0.15,2,Positive,NA,Positive,NA,Positive,NA,Positive,NA,Negative,NA,Negative,NA,Negative
+SF12,No,17,2015/12/08,2015,serval,9.00E+14,Yes,Adult,F,10.8,24,42.1,46,82,30,0.13,11,Negative,NA,Positive,0.097222222,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SM11,No,18,2015/12/08,2015,serval,9.00E+14,Yes,Adult,M,10.3,24,41,48,81,27,0.13,15,Positive,0.263888889,Positive,0.152777778,Positive,0.486111111,Positive,0.152777778,Negative,NA,Negative,NA,Negative
+SF13,No,19,2015/12/08,2015,serval,9.00E+14,Yes,Sub Adult,F,7.8,19,38,42,79,28,0.1,4,Positive,0.263888889,Positive,0.097222222,Positive,0.486111111,Negative,NA,Negative,NA,Negative,NA,Negative
+SM10,No,20,2015/12/08,2015,serval,9.00E+14,Yes,Sub Adult,M,8.2,21,37,48.5,80,33,0.1,18,Positive,0.486111111,Positive,0.263888889,Positive,0.097222222,Positive,0.152777778,Negative,NA,Negative,NA,Negative
+SF14,No,21,2015/12/09,2015,serval,9.00E+14,Yes,Adult,F,12,23,44.5,48.5,83,29,0.13,13,Positive,0.097222222,Positive,0.263888889,Positive,01:20,Positive,01:20,Negative,NA,Negative,NA,Negative
+SM9,Yes,22,2015/12/09,2015,serval,9.00E+14,Yes,Adult,M,13,25,45,51.5,92,32,0.14,2,Positive,0.097222222,Positive,0.097222222,Positive,0.152777778,Positive,01:20,Negative,NA,Negative,NA,Negative
+SF15,No,23,2015/12/09,2015,serval,9.00E+14,Yes,Sub Adult,F,7.1,19,34,41,80,26,0.09,17,Positive,0.097222222,Positive,0.152777778,Positive,0.097222222,Negative,NA,Negative,NA,Negative,NA,Negative
+SM13,No,24,2015/12/09,2015,serval,9.00E+14,Yes,Sub Adult,M,9.6,22,41,50,89,29,0.11,4,Positive,0.097222222,Positive,0.152777778,Positive,0.097222222,Positive,01:20,Negative,NA,Negative,NA,Negative
+SM14,No,25,2015/12/10,2015,serval,9.00E+14,Yes,Adult,M,11.6,24,43.5,47,90,33,0.13,21,Positive,01:20,Positive,0.263888889,Positive,0.097222222,Positive,0.152777778,Negative,NA,Negative,NA,Negative
+SM15,Yes,26,2015/12/10,2015,serval,9.00E+14,Yes,Adult,M,13.7,25.5,45,49,91,32,0.15,2,Positive,0.097222222,Positive,0.263888889,Positive,01:20,Positive,0.097222222,Positive,NA,Negative,NA,Negative
+SF16,No,27,2015/12/10,2015,serval,9.00E+14,Yes,Adult,F,10.8,23,41,49,80,31,0.14,14,Positive,0.097222222,Positive,0.486111111,Positive,0.152777778,Positive,0.097222222,Negative,NA,Negative,NA,Negative
+SM16,No,28,2016/11/14,2016,serval,9.00E+14,Yes,Adult,M,13.4,27,42,55,89,20,0.15,19,Positive,01:20,Positive,0.152777778,Negative,NA,Negative,NA,Positive,NA,Negative,NA,Negative
+SM8,Yes,29,2016/11/14,2016,serval,9.53E+14,Yes,Adult,M,13.3,27,43,53,88,29,0.15,4,Positive,01:20,Positive,0.263888889,Positive,01:20,Negative,NA,Positive,NA,Negative,NA,Negative
+SM17,No,30,2016/11/15,2016,serval,9.00E+14,Yes,Adult,M,12.8,26.5,43,52,91.5,34,0.14,10,Positive,01:40,Positive,0.097222222,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF18,No,31,2016/11/16,2016,serval,9.00E+14,Yes,Sub Adult,F,10,24,40,49,85.5,27,0.12,17,Positive,01:40,Positive,01:20,Positive,01:20,Negative,NA,Negative,NA,Negative,NA,Negative
+SM18,No,32,2016/11/16,2016,serval,9.00E+14,Yes,Sub Adult,M,13.4,26.5,46,53,86,31,0.16,3,Negative,NA,Positive,0.152777778,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SM19,No,33,2016/11/17,2016,serval,9.00E+14,Yes,Adult,M,13.9,28,45,52,88.5,31,0.16,3,Negative,NA,Positive,01:20,Positive,01:20,Negative,NA,Negative,NA,Negative,NA,Negative
+SF17,No,34,2016/11/17,2016,serval,9.00E+14,Yes,Sub Adult,F,10.1,22,40,47,81,33,0.12,9,Negative,NA,Negative,NA,Positive,01:40,Negative,NA,Negative,NA,Negative,NA,Negative
+SF18,Yes,35,2016/11/18,2016,serval,9.00E+14,Yes,Sub Adult,F,10.6,24,40,49,85.5,27,0.12,23,Positive,01:40,Positive,01:20,Positive,01:20,Negative,NA,Negative,NA,Negative,NA,Negative
+SF19,No,36,2016/11/18,2016,serval,9.00E+14,Yes,Adult,F,10.1,23.5,39,50,81,31,0.12,4,Negative,NA,Positive,01:20,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SM20,No,37,2016/11/18,2016,serval,9.00E+14,Yes,Adult,M,12,28,43,51,83,30,0.14,10,Positive,01:40,Positive,01:20,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SM19,Yes,38,2017/09/17,2017,serval,9.00E+14,Yes,Adult,M,13.5,27,46,62,88.5,31,0.15,27,Negative,NA,Positive,01:20,Positive,01:20,Negative,NA,Negative,NA,Negative,NA,Negative
+SF22,No,39,2017/09/17,2017,serval,9.53E+14,Yes,Adult,F,9,23,40,52,83,32,0.11,22,Positive,0.263888889,Negative,NA,Positive,0.930555556,Positive,0.097222222,Negative,NA,Negative,NA,Negative
+SF23,No,40,2017/09/18,2017,serval,9.53E+14,Yes,Juvenile,F,8,25,40,47,78,24,0.1,19,Positive,0.930555556,Positive,0.486111111,Positive,0.930555556,Positive,0.263888889,Negative,NA,Negative,NA,Negative
+SF20,No,41,2017/09/19,2017,serval,9.53E+14,Yes,Adult,F,12.2,27,41,49.5,80,30,0.15,27,Positive,0.486111111,Positive,0.930555556,Positive,0.152777778,Negative,NA,Negative,NA,Negative,NA,Negative
+SM23,No,42,2017/09/20,2017,serval,9.53E+14,Yes,Adult,M,10.5,22,43,52,84,28,0.13,15,Positive,0.263888889,Negative,NA,Positive,0.930555556,Negative,NA,Negative,NA,Negative,NA,Negative
+SM22,No,43,2017/09/20,2017,serval,9.53E+14,Yes,Sub Adult,M,8.5,22,38,49,76,35,0.11,25,Positive,0.930555556,Positive,0.486111111,Positive,0.263888889,Positive,0.097222222,Negative,NA,Negative,NA,Negative
+SF21,No,44,2017/09/20,2017,serval,9.53E+14,Yes,Sub Adult,F,9.2,22,39,52,82,28,0.11,20,Positive,0.263888889,Negative,NA,Positive,0.236111111,Negative,NA,Negative,NA,Negative,NA,Negative
+SM5,No,45,2017/09/20,2017,serval,9.53E+14,Yes,Adult,M,14,28,47,53,87,31,0.16,9,Positive,0.236111111,Negative,NA,Positive,0.236111111,Positive,01:40,Negative,NA,Negative,NA,Negative
+SF24,No,46,2017/11/13,2017,serval,9.53E+14,Yes,Sub Adult,F,8,20,38,52,78,31,0.1,19,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SM25,No,47,2017/11/13,2017,serval,9.53E+14,Yes,Adult,M,12,27,44,38,83,32,0.14,3,Negative,NA,Negative,NA,Negative,NA,Positive,01:20,Negative,NA,Negative,NA,Negative
+SF23,Yes,48,2017/11/13,2017,serval,9.53E+14,Yes,Juvenile,F,7,20,38,51,80,33,0.09,31,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SM24,No,49,2017/11/13,2017,serval,9.53E+14,Yes,Sub Adult,M,8,22,39,50,77,30,0.1,21,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SM5,Yes,50,2017/11/13,2017,serval,9.53E+14,Yes,Adult,M,14,27,46,57,90,32,0.16,27,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF25,No,51,2017/11/15,2017,serval,9.53E+14,Yes,Adult,F,11,25,46,55,81,33,0.14,26,Negative,NA,Negative,NA,Negative,NA,Positive,01:20,Negative,NA,Negative,NA,Negative
+SM26,No,52,2017/11/15,2017,serval,9.53E+14,Yes,Adult,M,10,26,42,57,91,28,0.11,12,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF27,No,53,2017/11/17,2017,serval,9.53E+14,Yes,Adult,F,10,24,43,55,80,18,0.13,8,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF26,No,54,2017/11/17,2017,serval,9.53E+14,Yes,Juvenile,F,6,19,35,49,75,32,0.08,22,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SM19,Yes,55,2017/11/17,2017,serval,9.00E+14,Yes,Adult,M,15,31,49,58,90,34,0.17,13,Negative,NA,Negative,NA,Negative,NA,Negative,01:20,Negative,NA,Negative,NA,Negative
+SM22,Yes,56,2017/11/17,2017,serval,9.53E+14,Yes,Sub Adult,M,9,21,39,50,80,35,0.11,31,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF20,Yes,57,2017/11/17,2017,serval,9.53E+14,Yes,Adult,F,10,24,43,57,84,33,0.12,28,Negative,NA,Negative,NA,Negative,NA,Positive,01:20,Negative,NA,Negative,NA,Negative
+SM25,Yes,58,2018/03/12,2018,serval,9.53E+14,Yes,Adult,M,12.2,25,44,57,87,33,0.14,2,Negative,NA,Positive,0.097222222,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF28,No,59,2018/03/12,2018,serval,9.53E+14,Yes,Adult,F,13.4,25,47,48,81.5,32,0.16,28,Negative,NA,Positive,01:20,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF29,No,60,2018/03/12,2018,serval,9.53E+14,Yes,Sub Adult,F,9.4,23,39,50,77.5,29,0.12,39,Negative,NA,Positive,01:20,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF26,Yes,61,2018/03/12,2018,serval,9.53E+14,Yes,Sub Adult,F,7.7,23,37,50,77.5,30,0.1,21,Negative,NA,Positive,01:20,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF18,Yes,62,2018/03/13,2018,serval,9.00E+14,Yes,Adult,F,9.8,21,40,53,79.5,30,0.12,3,Negative,NA,Positive,0.097222222,Negative,NA,Positive,01:20,Negative,NA,Negative,NA,Negative
+SF30,No,63,2018/03/13,2018,serval,9.53E+14,Yes,Sub Adult,F,8.5,21,33,49,77.5,28,0.11,35,Negative,NA,Positive,0.097222222,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF31,No,64,2018/03/13,2018,serval,9.53E+14,Yes,Adult,F,11.8,26,43,53,77.5,32,0.15,2,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF32,No,65,2018/03/14,2018,serval,9.53E+14,Yes,Sub Adult,F,8.2,20,38,47,77.5,29,0.11,21,Negative,NA,Positive,0.930555556,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF33,No,66,2018/03/14,2018,serval,9.53E+14,Yes,Adult,F,9.8,22,44,46,80.5,32,0.12,37,Negative,NA,Positive,0.263888889,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF34,No,67,2018/03/15,2018,serval,9.53E+14,Yes,Sub Adult,F,7.7,20,36,46,78.5,31,0.1,21,Negative,NA,Positive,0.930555556,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SF35,No,68,2018/03/15,2018,serval,9.53E+14,Yes,Sub Adult,F,8.6,21,38,49,80.5,32,0.11,38,Negative,NA,Positive,0.486111111,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
+SM27,No,69,2018/03/16,2018,serval,9.53E+14,Yes,Adult,M,12.1,18,48,56,85,31,0.14,5,Negative,NA,Positive,0.930555556,Negative,NA,Positive,01:20,Negative,NA,Negative,NA,Negative
+SM28,No,70,2018/03/16,2018,serval,9.53E+14,Yes,Adult,M,12.6,21,49,56,83,30,0.15,40,Negative,NA,Positive,0.263888889,Negative,NA,Negative,NA,Negative,NA,Negative,NA,Negative
