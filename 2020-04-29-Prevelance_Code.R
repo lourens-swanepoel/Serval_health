@@ -13,6 +13,7 @@ library(ggpubr)
 # Get data
 
 BMI <- read_csv("C:/Users/Swanepoel L/Dropbox/Papers/Students/PhD-Students/Daan Loock/Serval Health/BMI.csv", trim_ws = TRUE)
+read.csv("BMI.csv",  header = TRUE)
 
 #---------DROP 2014 data since no pathogen tests was done
 SH = BMI %>% 
